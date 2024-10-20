@@ -1,0 +1,6 @@
+@HangfireMySQLExample_HostAddress = http://localhost:5043
+
+GET {{HangfireMySQLExample_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
